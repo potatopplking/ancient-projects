@@ -1,0 +1,3 @@
+# Heightmap renderer
+
+HeightMapViewer renders height map (in PGM format). Written in C/OpenGL. Made in circa 2011.		
